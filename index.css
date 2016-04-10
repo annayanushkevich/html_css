@@ -1,0 +1,78 @@
+header img {
+    border-radius: 60%;
+   style: width:10em; height:10em; 
+   display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+body {
+  width: 850px;
+  margin: 0 auto;
+  background-color: white;
+  text-decoration-color: sleelblue;
+  border: 8px solid 
+    margin: 8px;
+    padding: 8px;
+    padding: 66px
+    right: 6px;
+}
+
+.container {
+    position: relative;
+    width: 100%;
+}
+
+.right {
+    position: relative;
+    right: 0px;
+    width: 800px;
+    background-color:steelblue;
+};
+}
+
+.column-section {
+  width: 800px;
+  float: left;
+
+}
+
+body{
+  font-family: 'ubuntu' sans-serif;
+  font-weight: 200px;
+  font-size: 1.1em; /*( em- width of letter m. make this smaller then the default, can also use %)*/
+}
+
+.column-section {
+  width: 55px;
+  float:55px;
+  hight:200px
+  overflow: scroll;
+}
+
+
+ h2 {
+  background-color: steelblue;
+  color: white;
+  padding: 33px;
+ }
+    
+
+/*color*/
+
+body {
+  background-color: white; 
+
+}
+
+p, ul {
+  color:steelblue;
+  padding: 44px
+
+}
+
+header h1,{
+   color:steelblue;
+   margin-left: auto;
+    margin-right: auto;
+    width: 55em
+}

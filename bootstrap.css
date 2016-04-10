@@ -1,0 +1,23 @@
+
+
+.col-md-8 {       
+    position: fixed;
+    left: 50;
+    right: 0;
+    height: 50%;
+}
+.yellow {
+    position: fixed;
+    left: 0;
+    right: 50;
+    height: 20%;
+}
+
+.col-md-8{
+    top: 0;
+    background-color: orange;
+}
+
+.yellow{
+    bottom: 0;
+    background-color: green;
